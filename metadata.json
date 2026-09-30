@@ -1,0 +1,6 @@
+{
+  "name": "The World Today",
+  "description": "Understand the World. Stay Informed. Premium global news covering world events, technology, AI, science, economy, geopolitics, and climate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
